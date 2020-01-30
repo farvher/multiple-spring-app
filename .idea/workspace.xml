@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78355f0b-a57c-4961-b377-f80f890b23cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eureka-server/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="farvher" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="farvher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="farvher" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka-server" />
+  </component>
+  <component name="ProjectId" id="1X83rDAUKp42uNSegM1fwigpB7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eureka-server" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.farvher [bootRun]">
+    <configuration name="farvher [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="farvher [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="farvher [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.account.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.account.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdministrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.administration.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.administration.AdministrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.customer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dwelling.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.eureka-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.landing.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.landing.LandingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="farvher.login.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farvher.login.LoginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.farvher [bootRun]" />
+        <item itemvalue="Gradle.farvher [run]" />
+        <item itemvalue="Gradle.farvher [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78355f0b-a57c-4961-b377-f80f890b23cf" name="Default Changelist" comment="" />
+      <created>1580414090791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580414090791</updated>
+      <workItem from="1580414095554" duration="7971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580421319731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580421319731" />
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom" timestamp="1580422184484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580422184484" />
+    <state width="1323" height="102" key="GridCell.Tab.0.center" timestamp="1580422184484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580422184484" />
+    <state width="1323" height="102" key="GridCell.Tab.0.left" timestamp="1580422184484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580422184484" />
+    <state width="1323" height="102" key="GridCell.Tab.0.right" timestamp="1580422184484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580422184484" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1580416349780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580416349780" />
+    <state x="314" y="61" width="737" height="606" key="find.popup" timestamp="1580417313074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="61" width="737" height="606" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580417313074" />
+    <state x="346" y="0" width="672" height="726" key="search.everywhere.popup" timestamp="1580422457744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="0" width="672" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580422457744" />
+  </component>
+</project>
